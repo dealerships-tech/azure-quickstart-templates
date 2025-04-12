@@ -1,0 +1,15 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+<<<<<<< HEAD:000-QuickStarts/101-storage-account-create/metadata.json
+  "type": "QuickStart",
+=======
+>>>>>>> 18cc18f2d (added $schema property):101-storage-account-create/metadata.json
+  "itemDisplayName": "Create a Standard Storage Account",
+  "description": "This template creates a Standard Storage Account",
+  "summary": "Create a Standard Storage Account",
+  "githubUsername": "singhkays",
+  "dateUpdated": "11-04-2026"
+  "githubUsername": "bmoore-msft",
+  "dateUpdated": "11-04-2026"
+}
+
