@@ -1,6 +1,6 @@
 name: Auto Fix Sample
 # This action can be run on-demand against a branch.
-# It attempts to auto-fix some errors in the most recently updated sample in the branch:
+# It attempts to auto-fix some errors in the most recently updated sample in the branch: .
 #    Builds main.bicep -> azuredeploy.json
 .
 .
